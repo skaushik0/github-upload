@@ -1,23 +1,23 @@
-demo-repo
----------
+github-upload
+-------------
 
 This is a demo repository for 14-848 (HW-1).
 
 SCREENSHOTS
 
   - Introduction to GitHub
-    - ./images/intro-to-github-00
-    - ./images/intro-to-github-00
+    - https://github.com/skaushik0/github-upload/raw/main//images/intro-to-github-00
+    - https://github.com/skaushik0/github-upload/raw/main//images/intro-to-github-00
 
   - Uploading your project to GitHub
-    - ./images/uploading-github-00
-    - ./images/uploading-github-01
+    - https://github.com/skaushik0/github-upload/raw/main//images/uploading-github-00
+    - https://github.com/skaushik0/github-upload/raw/main//images/uploading-github-01
 
   - Reviewing Pull Requests
-    - ./images/review-pr-00
-    - ./images/review-pr-01
+    - https://github.com/skaushik0/github-upload/raw/main/images/review-pr-00
+    - https://github.com/skaushik0/github-upload/raw/main//images/review-pr-01
 
   - Securing your Workflows
-    - ./images/secure-workflow-00
-    - ./images/secure-workflow-01
+    - https://github.com/skaushik0/github-upload/raw/main//images/secure-workflow-00
+    - ./images/secure-workflow-01.png
 
